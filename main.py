@@ -11,7 +11,7 @@ messages = [{
     'name': u'Tanya',
     'message': u'Nestle, Milkibar, Dairy Milk'
 }]
-
+#
 
 @app.route('/hse_board/messages/<uuid:message_id>', methods = ['DELETE'])
 def delete_message(message_id):

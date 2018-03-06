@@ -8,8 +8,8 @@ CORS(app)
 
 messages = [{
     'id' :uuid.uuid4(),
-    'name': u'Tanya',
-    'message': u'Nestle, Milkibar, Dairy Milk'
+    'name': u'HSE',
+    'message': u'password'
 }]
 #
 
